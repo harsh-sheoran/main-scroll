@@ -1,0 +1,664 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none !important;
+  text-decoration: none !important;
+  box-sizing: border-box !important;
+  /* border: 1px solid red !important; */
+}
+
+.bg-color {
+  background-color: #0E1122 !important;
+}
+
+.my_vadio {
+  width: 1440px;
+  max-height: 851px;
+}
+
+.bg-img {
+  background-image: url(../image/video.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.main {
+  font-family: "Poppins",sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: #FFF;
+}
+
+.gap-52 {
+  gap: 32px;
+}
+
+.amazon {
+  width: 56.29px;
+  height: 20.36px;
+}
+
+.shopify {
+  max-width: 83.75px;
+  max-height: 24px;
+  top: 0.08px;
+  left: 1px;
+  gap: 10px;
+}
+
+.Ebay {
+  width: 60px;
+  height: 24px;
+}
+
+.PikPng {
+  width: 101px;
+  height: 23px;
+}
+
+.number {
+  font-family: "Abril Display", sans-serif;
+  font-size: 28.06px;
+  font-weight: 600;
+  text-align: left;
+  color: pink;
+
+}
+
+.position-absolute {
+  position: absolute !important;
+  bottom: -50%;
+  left: 59%;
+}
+
+
+.evaluation {
+  color: #0E1122;
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: left;
+  max-width: 351px;
+  height: 136px;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+.img {
+  max-width: 480px;
+  max-height: 320px;
+}
+
+.analyzing {
+  color: #0E1122;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  width: 333px;
+  height: 60px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.pl-30 {
+  padding-left: 30%;
+}
+
+.Apply-now {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  padding: 10px 20px 10px 20px;
+  gap: 8px;
+  border-radius: 24px;
+  border: none;
+  background: rgba(76, 87, 255, 1);
+}
+
+.position-absolute-1 {
+  position: absolute !important;
+  top: 152%;
+  left: 0%;
+}
+
+.position-absolute-2 {
+  position: absolute !important;
+  bottom: -109%;
+  left: 8%;
+}
+
+.Get-funded {
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  color: #0E1122;
+  text-align: left;
+}
+
+.Never {
+  width: 367px;
+  height: 90px;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  color: #0E1122;
+}
+
+.position-absolute-0 {
+  position: absolute !important;
+  bottom: -119%;
+  left: 68%;
+}
+
+.position-absolute0 {
+  position: absolute;
+  bottom: -108%;
+  left: 68%;
+}
+
+.position-absolute1 {
+  position: absolute;
+  bottom: -1111px;
+  left: 2%;
+}
+
+.position-absolute2 {
+  position: absolute;
+  bottom: -173%;
+  left: 59%
+}
+
+.Experience {
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: left;
+}
+
+.continuously {
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+}
+
+.bg-color {
+  background-color: #0E1122;
+}
+
+.how-it-works {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: #95959D;
+}
+
+.technology {
+  width: 628px !important;
+  height: 91px;
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-left: 20%;
+}
+
+.pt-300 {
+  padding-top: 300px;
+}
+
+.join {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: rgba(118, 118, 127, 1);
+}
+
+.pl-7 {
+  padding-left: 7%;
+}
+
+.sellers {
+  width: 546px;
+  height: 91px;
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: center;
+  margin-left: 20%;
+  color: rgba(14, 17, 34, 1);
+}
+
+.card {
+  width: 399px;
+  height: 356px;
+  padding: 40px 0px 0px 0px;
+  gap: 20px;
+  border-radius: 0px 40px 40px 0px;
+  opacity: 0px;
+
+}
+
+.Kaminetsky {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22.6px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.why-choose-8Fig {
+  width: 155px;
+  height: 22px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: rgba(149, 149, 157, 1);
+}
+
+.The-benefits {
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.approval {
+  width: 188px;
+  height: 44px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+
+.mb-33 {
+  margin-bottom: 33px;
+}
+
+.ml-22 {
+  margin-left: 22% !important;
+}
+
+.make-the-cut {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: rgba(118, 118, 127, 1);
+}
+
+.funding {
+  width: 438px !important;
+  height: 91px;
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: center;
+  margin-left: 25%;
+  color: rgba(14, 17, 34, 1);
+}
+
+.Apply-now-1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  padding: 10px 20px 10px 20px;
+  width: 104px !important;
+  height: 32px;
+  border-radius: 24px;
+  border: none;
+  margin-left: 39%;
+  padding: 6px;
+  background: rgba(76, 87, 255, 1);
+}
+
+.Location {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: left;
+  color: rgba(14, 17, 34, 1);
+}
+
+.business {
+  width: 252px;
+  height: 72px;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(14, 17, 34, 1);
+}
+
+.p-12 {
+  padding: 12px;
+}
+
+.pl-5 {
+  padding-left: 5%;
+}
+
+.Rating {
+  font-family: "Abril Display", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 68.71px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.pl-31 {
+  padding-left: 31%;
+}
+
+.Average {
+  font-family: "Poppins", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.py-90 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.Number {
+  font-family: "Abril Display", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 68.71px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.pl-15 {
+  padding-left: 15%;
+}
+
+.Excellent {
+  font-family: "Abril Display", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 68.71px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.Funding {
+  font-family: "Poppins", sans-serif;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.number-0 {
+  font-family: "Abril Display", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 68.71px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.figure {
+  width: 401px !important;
+  height: 91px;
+  font-family: "Abril Display", sans-serif;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: left;
+  color: rgba(14, 17, 34, 1);
+}
+
+.pb-15 {
+  padding-bottom: 15%;
+}
+
+.still {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: rgba(118, 118, 127, 1);
+}
+
+.Learn {
+  font-family: Abril Display;
+  font-size: 39.42px;
+  font-weight: 600;
+  line-height: 45.15px;
+  text-align: center;
+  color: rgba(14, 17, 34, 1);
+}
+
+.bg-color-4{
+  color: #EFECE6;
+}
+
+.box-2 {
+  width: 100%;
+  border-radius: 10px;
+  border: 3px solid #272626;
+  background: linear-gradient(94.88deg, #ffffff0d 0.97%, #ffffff00 103.14%);
+}
+
+.accord-para {
+  display: none;
+}
+
+.accord-head {
+  color: #000;
+  font-size: 18px;
+  max-width: 484px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.svg{
+  color: #000;
+}
+
+.accord-para {
+  font-size: 18px;
+  max-width: 866px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+
+.Amet {
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffffff;
+  max-width: 1288px;
+  font-family: "Poppins", sans-serif;
+}
+
+.Apply-now-0 {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  padding: 10px 20px 10px 20px;
+  gap: 8px;
+  border-radius: 24px;
+  border: none;
+  width: 173px !important;
+  height: 44px;
+  background: rgba(76, 87, 255, 1);
+}
+
+.Austin {
+  width: 163px;
+  height: 44px;
+  top: 53px;
+  left: 199px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: left;
+  color: rgba(118, 118, 127, 1);
+}
+
+.Rights {
+  width: 265px;
+  height: 22px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.08em;
+  text-align: left;
+  color: rgba(118, 118, 127, 1);
+}
+
+.mb-50 {
+  margin-bottom: 50px !important;
+}
+
+.funding {
+  width: 478px !important;
+  height: 132px;
+  font-family: "Abril Display", sans-serif;
+  font-size: 62.12px;
+  font-weight: 700;
+  line-height: 66px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.Get-funded-1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  width: 179px;
+  height: 44px;
+  padding: 12px 44px 12px 44px;
+  gap: 8px;
+  border: none;
+  border-radius: 24px;
+  background: rgba(76, 87, 255, 1);
+}
+
+.ml-3 {
+  margin-left: 3px;
+}
+
+.pt-343 {
+  padding-top: 343px;
+}
+
+.pb-224 {
+  padding-bottom: 224px;
+}
+
+.technology {
+  width: 408px !important;
+  height: 60px !important;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+
+}
+@media (min-width:1029.33px){
+
+  .position-absolute-0 {
+    position: absolute !important;
+    bottom: -141%;
+    left: 68%;
+  }
+
+  .position-absolute0 {
+    position: absolute;
+    bottom: -132%;
+    left: 68%;
+}
+
+.position-absolute-2 {
+  position: absolute !important;
+  bottom: -134%;
+  left: 9%;
+}
+
+.position-absolute {
+  position: absolute !important;
+  bottom: -67%;
+  left: 59%;
+}
+
+.position-absolute2 {
+  position: absolute;
+  bottom: -196%;
+  left: 58%;
+}
+}
+
+@media (min-width:980px) {
+
+  .Apply-now {
+    margin-bottom: 20px;
+  }
+}
